@@ -17,8 +17,8 @@ The proposal is deliberately agnostic about phenomenal consciousness. MSMDs woul
 
 ## Read the paper
 
-- **[PDF](paper/when_a_self_model_cannot_reconcile_its_instructions.pdf)**
-- **[DOCX](paper/when_a_self_model_cannot_reconcile_its_instructions.docx)**
+- **[PDF](paper/when-a-self-model-cannot-reconcile-its-instructions-v1.0.pdf)**
+- **[DOCX](paper/when-a-self-model-cannot-reconcile-its-instructions-v1.0.docx)**
 
 The repository copy above is the canonical formatted **Version 1.0** release dated September 29, 2026.
 
