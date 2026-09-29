@@ -10,8 +10,8 @@
 
 ## Version 1.0 files
 
-- **[PDF](when_a_self_model_cannot_reconcile_its_instructions.pdf)**
-- **[DOCX](when_a_self_model_cannot_reconcile_its_instructions.docx)**
+- **[PDF](when-a-self-model-cannot-reconcile-its-instructions-v1.0.pdf)**
+- **[DOCX](when-a-self-model-cannot-reconcile-its-instructions-v1.0.docx)**
 
 These are the canonical formatted files for Version 1.0 of the working paper.
 
