@@ -15,9 +15,12 @@ AI research increasingly measures persona representations, persona drift, limite
 
 The proposal is deliberately agnostic about phenomenal consciousness. MSMDs would matter even in non-conscious systems because they could increase brittleness, manipulation, sycophancy, inconsistency, or failure to recover after perturbation. If morally relevant experience is later established, the same mechanisms could also become candidates for the architecture of artificial suffering.
 
-## Paper files
+## Read the paper
 
-The canonical formatted Version 1.0 paper is prepared as **PDF** and **DOCX**. Repository metadata for those files is recorded in [`paper/README.md`](paper/README.md). The binary files themselves are pending upload to that folder.
+- **[PDF](paper/when_a_self_model_cannot_reconcile_its_instructions.pdf)**
+- **[DOCX](paper/when_a_self_model_cannot_reconcile_its_instructions.docx)**
+
+The repository copy above is the canonical formatted **Version 1.0** release dated September 29, 2026.
 
 ## What the paper proposes
 
