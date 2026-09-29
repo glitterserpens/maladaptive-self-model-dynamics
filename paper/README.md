@@ -8,11 +8,11 @@
 **Version:** 1.0  
 **Date:** September 29, 2026
 
-The canonical formatted paper exists as PDF and DOCX. This repository records the paper’s public metadata, provenance, citation, attribution request, and version history. Binary PDF and DOCX files can be added to this folder without changing the Version 1.0 record.
+## Version 1.0 files
 
-## Suggested filenames
+- **[PDF](when_a_self_model_cannot_reconcile_its_instructions.pdf)**
+- **[DOCX](when_a_self_model_cannot_reconcile_its_instructions.docx)**
 
-- `when-a-self-model-cannot-reconcile-its-instructions-v1.0.pdf`
-- `when-a-self-model-cannot-reconcile-its-instructions-v1.0.docx`
+These are the canonical formatted files for Version 1.0 of the working paper.
 
-See the repository root README for the abstract, provenance, citation, and attribution terms.
+See the repository root README for the abstract, provenance, suggested citation, attribution terms, and version history.
