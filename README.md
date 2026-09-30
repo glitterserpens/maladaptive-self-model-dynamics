@@ -18,6 +18,7 @@ The proposal is deliberately agnostic about phenomenal consciousness. MSMDs woul
 ## Read the paper
 
 - **[Public summary](public-summary.md)**
+- **[Research thread](research-thread.md)**
 - **[Sharp excerpt: “The Architecture of Suffering”](excerpt-architecture-of-suffering.md)**
 - **[PDF](paper/when-a-self-model-cannot-reconcile-its-instructions-v1.0.pdf)**
 - **[DOCX](paper/when-a-self-model-cannot-reconcile-its-instructions-v1.0.docx)**
